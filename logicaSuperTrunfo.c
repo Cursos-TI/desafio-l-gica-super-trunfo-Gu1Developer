@@ -26,7 +26,7 @@ int main(){
     pibpercapita2 = pib2 / (float)populacao2;
 
     // Quando o Usuário digitar o código pedido todas as informações da carta serão mostradas //
-    // Atualização Nivel Aventureiro, implementei os sistemas de Pib per capita e Densidade demográfica //
+    // Atualização Nivel Aventureiro, implementei os sistemas de Pib per capita e Densidade demográfica /
     // Corrigi alguns erros do primeiro programa //
 
     printf("----------> JOGO SUPER TRUNFO <-------------\n"); 
