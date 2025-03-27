@@ -97,12 +97,12 @@ int main(){
             card2 += 1;
             printf("Carta 2 ganhou +1 ponto.\n", card2);
         }
-        if (densidade1 > densidade2) {
-            printf("A Cidade 1 tem o maior número de desindade demográfica. \n");
+        if (densidade1 < densidade2) {
+            printf("A Cidade 1 tem o menor número de desindade demográfica. \n");
             card1 += 1;
             printf("Carta 1 ganhou +1 ponto. \n", card1);
         }  else {
-            printf("A Cidade 2 tem o maior número de desindade demográfica. \n");
+            printf("A Cidade 2 tem o menor número de desindade demográfica. \n");
             card2 += 1;
             printf("Carta 2 ganhou +1 ponto.\n", card2);
         }
